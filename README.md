@@ -71,13 +71,15 @@ Use of Python:
 
 #####  Process details:
 ###### Data Collection
+Collect the data set by doing the following:
+
 Import the libraries: 
 
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-Import Fisher's Iris data set (CSV) file: ,
+Import Fisher's Iris data set (CSV) file: 
 
 iris_data = pd.read_csv ('iris_dataset.csv')
 
@@ -85,6 +87,13 @@ iris_data = pd.read_csv ('iris_dataset.csv')
 
 
 ###### Data Exploration
+Summary of data set:
+
+iris_data.info()
+
+Display the first few rows of the data set:
+
+iris_data.head()
 
 
 
