@@ -83,13 +83,11 @@ Remove unwanted and redundant values, converting it into the right format, and m
 
 
 ###### Data Exploration
-Summary of data set:
+Explore data using various data visualization techniques to find unseen trends from the data
 
-iris_data.info()
+Summary of data set: iris_data.info()
 
-Display the first few rows of the data set:
-
-iris_data.head()
+Display the first few rows of the data set: iris_data.head()
 
 
 
