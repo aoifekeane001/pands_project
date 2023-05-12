@@ -80,7 +80,9 @@ Use of Python:
 ##### Data Collection
 Collect the data set by doing the following:
 
-Import the libraries: import pandas as pd, import seaborn as sns, import matplotlib.pyplot as plt
+Import the libraries: 
+* import pandas as pd, import seaborn as sns, import matplotlib.pyplot as plt
+
 Import Fisher's Iris data set (CSV) file: iris_data = pd.read_csv ('iris_dataset.csv')
 
 ##### Data Preparation
