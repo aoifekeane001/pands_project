@@ -33,10 +33,10 @@ Out of Scope
 * Correct data set used for the project
 * Measuring system is accurate and precise
 
-### Approach & Solution
+### Approach 
 Process
-* Data Collection: Import the data set, Load the data set
-* Data Preparation: Clean the data remove unwanted and redundant values, converting it into the right format, and making it ready for analysis
+* Data Collection: 
+* Data Preparation: 
 * Data Exploration: 
 * Data Visualation: 
 * Results Interpretation
