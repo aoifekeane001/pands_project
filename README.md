@@ -11,7 +11,7 @@ Fisher Iris data set analysis
 Purpose of this project is to research the Fishers Iris data set and write documentation and code (in Python) to investigate it, demonstrating learnings from ATU Programming & Scripting course modules 
 
 ### Project Scope
-In Scope
+#### In Scope
 Data: 
 * Fishers Iris data set (https://www.kaggle.com/datasets/uciml/iris) 
 
