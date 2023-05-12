@@ -22,7 +22,7 @@ Project Requirements:
 * Outputs a scatter plot of each pair of variables 
 * Performs any other appropriate analysis 
 
-#### ouut of Scope
+#### Out of Scope
 Data: 
 * Any other data set not listed in scope of this document
 
