@@ -63,10 +63,31 @@ Use of Python:
 
 ### Program Analysis & Summary
 #### Python program 'analysis.py'
+Project requirements:
 * Outputs a summary of each variable to a single text file
 * Saves a histogram of each variable to png file 
 * Outputs a scatter plot of each pair of variables 
 * Performs any other appropriate analysis
+
+Process details:
+Data Collection
+
+
+
+Data Preparation
+
+
+Data Exploration
+
+
+
+Data Visualation
+
+
+
+Results Interpretation
+
+
 
 ### References
 1. UCI Machine Learning ‘Iris Species’ https://www.kaggle.com/datasets/uciml/iris
