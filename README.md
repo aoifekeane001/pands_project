@@ -76,7 +76,7 @@ Use of Python:
 * Outputs a scatter plot of each pair of variables 
 * Performs any other appropriate analysis
 
-####  Process details:
+####  Data Analysis Process Steps for Python Program:
 ##### Data Collection
 Collect the data set by doing the following:
 
