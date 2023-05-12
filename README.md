@@ -35,9 +35,10 @@ Out of Scope
 
 ### Approach & Solution
 Process
-* Data Collection
-* Data Preparation
-* Data Exploration
+* Data Collection: Import the data set, Load the data set
+* Data Preparation: Clean the data remove unwanted and redundant values, converting it into the right format, and making it ready for analysis
+* Data Exploration: 
+* Data Visualation: 
 * Results Interpretation
 
 Use of Python:
