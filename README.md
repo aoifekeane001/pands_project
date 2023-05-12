@@ -106,7 +106,7 @@ Check for missing values:
 * iris_data.isnull().sum()
 
 Get descriptive stats:
-* iris.data.describe()
+* iris_data.describe()
 
 ##### Results Interpretation
 Derive meaningful results and check if the output is in line with your expected results.
