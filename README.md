@@ -66,7 +66,7 @@ Use of Python:
 * It includes three iris species with 50 samples each as well as some properties about each flower
 * One flower species is linearly separable from the other two, but the other two are not linearly separable from each other
 * The four features / variables measured for each sample are - Sepal length, Sepal Width, Petal Length, Petal Width
-* Key objective of the Fisher's Iris data set is to distinguish between the three different species of irish flowers based on the measurement features
+* Key objective of the Fisher's Iris data set is to distinguish between the three different species of iris flowers based on the measurement features
 
 ## Program Analysis & Summary
 ### Python program 'analysis.py'
