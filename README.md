@@ -47,10 +47,15 @@ Use of Python:
 * Matplotlib: to add data visualisation (e.g. graphs, charts, histograms, plots)
 
 ### Initial Data Research & Summary
+* Fisher's Iris data set was introduced by the British statistician and biologist Ronald Fisher in 1936
 * Data set was used in R.A. Fisher's classic 1936 paper, The Use of Multiple Measurements in Taxonomic Problems, and can also be found on the UCI Machine Learning Repository
-* Data set is used to classify iris plants into three species
+* It is a well-known and commonly used data set in the field of machine learning & statistics and pattern recognition techniques
+* The data set consists of 150 samples, with 50 samples of each of the three Iris species
+* The data set consists of measurements of four features of the three different species of Iris flowers: setosa, versicolor, and virginica 
 * It includes three iris species with 50 samples each as well as some properties about each flower
 * One flower species is linearly separable from the other two, but the other two are not linearly separable from each other
+* The four features / variables measured for each sample are - Sepal length, Sepal Width, Petal Length, Petal Width
+* Key objective of the Fisher's Iris data set is to distinguish between the three different species of irish flowers based on the measurement features
 
 ### Program Analysis & Summary
 Details to be added
