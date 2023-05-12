@@ -71,12 +71,14 @@ Use of Python:
 
 #####  Process details:
 ###### Data Collection
-Import the libraries:
+Import the libraries: 
+
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-Import Fisher's Iris data set (CSV) file
+Import Fisher's Iris data set (CSV) file: ,
+
 iris_data = pd.read_csv ('iris_dataset.csv')
 
 ###### Data Preparation
