@@ -78,6 +78,8 @@ Import the libraries: import pandas as pd, import seaborn as sns, import matplot
 Import Fisher's Iris data set (CSV) file: iris_data = pd.read_csv ('iris_dataset.csv')
 
 ###### Data Preparation
+Remove unwanted and redundant values, converting it into the right format, and making it ready for analysis by doing the following:
+
 
 
 ###### Data Exploration
