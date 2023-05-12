@@ -16,7 +16,7 @@ Data:
 * Fishers Iris data set (https://www.kaggle.com/datasets/uciml/iris) 
 
 Project Requirements: 
-Python Program
+* Python Program
 * Outputs a summary of each variable to a single text file 
 * Saves a histogram of each variable to png file 
 * Outputs a scatter plot of each pair of variables 
