@@ -41,7 +41,7 @@ Project Requirements:
 Process
 * Data Collection 
 * Data Preparation 
-* Data Exploration /Data Visualation 
+* Data Exploration /Data Visualisation 
 * Results Interpretation
 
 Use of Python:
