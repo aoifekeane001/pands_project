@@ -30,7 +30,8 @@ Out of Scope
 -- Performs any other appropriate analysis 
 
 ### Assumptions
-- Details to be added
+* Correct data set used for the project
+* Measuring system is accurate and precise
 
 ### Approach & Solution
 Process
