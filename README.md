@@ -61,9 +61,8 @@ Use of Python:
 * The four features / variables measured for each sample are - Sepal length, Sepal Width, Petal Length, Petal Width
 * Key objective of the Fisher's Iris data set is to distinguish between the three different species of irish flowers based on the measurement features
 
-### 
-Program Analysis & Summary
-Analysis Program in Python 
+### Program Analysis & Summary
+#### Python program 'analysis.py'
 * Outputs a summary of each variable to a single text file
 * Saves a histogram of each variable to png file 
 * Outputs a scatter plot of each pair of variables 
