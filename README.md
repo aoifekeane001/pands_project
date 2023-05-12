@@ -70,7 +70,7 @@ Use of Python:
 
 #####  Process details:
 ###### Data Collection
-Collect the data set by doing the following:
+####### Collect the data set by doing the following:
 
 Import the libraries: import pandas as pd, import seaborn as sns, import matplotlib.pyplot as plt
 
