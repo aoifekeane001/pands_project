@@ -35,13 +35,10 @@ Out of Scope
 ### Approach & Solution
 - Details to be added
 
-### Initial Research
+### Initial Research & Summary
 - Details to be added
 
-### Findings
-- Details to be added
-
-### Summary
+### Program Analysis & Summary
 - Details to be added
 
 ### References
