@@ -2,7 +2,7 @@
 ### Author: Aoife Keane
 
 ## Table of Contents
-1. Project Name 
+1. Project Name
 2. Project Description
 3. Project Scope
 4. Objectives
