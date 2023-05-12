@@ -8,30 +8,41 @@
 Fisher Iris data set analysis
 
 ### Project Description
-
+Purpose of this project is to research the Fishers Iris data set and write documentation and code (in Python) to investigate it, demonstrating learnings from ATU Programming & Scripting course modules 
 
 ### Project Scope
 - In Scope
+Data: Fishers Iris data set (https://www.kaggle.com/datasets/uciml/iris) 
+Analysis:
 
-- Out of Scope:
+- Out of Scope
+Data: Any other data set not listed in this document
+Analysis: Any other analysis not listed in this document
 
 
 ### Project Objectives
-- Research the Fishers Iris data set 
-- Complete analysis of the data set, demonstrating learning from ATU course modules
+- Research the Fishers Iris data set online and write a summary about it in your README
+- Download the data set and add it to your repository
+- Write a program called analysis.py that:
+-- Outputs a summary of each variable to a single text file 
+-- Saves a histogram of each variable to png file 
+-- Outputs a scatter plot of each pair of variables 
+-- Performs any other appropriate analysis 
 
 ### Assumptions
-- To be added
-
+- Details to be added
 
 ### Approach & Solution
-- To be added
+- Details to be added
+
+### Initial Research
+- Details to be added
 
 ### Findings
-- To be added
+- Details to be added
 
 ### Summary
-- To be added
+- Details to be added
 
 ### References
 1. UCI Machine Learning ‘Iris Species’ https://www.kaggle.com/datasets/uciml/iris
