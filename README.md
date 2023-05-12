@@ -30,13 +30,8 @@ Project Requirements:
 * Any requirement not listed in scope of this document
 
 ### Project Objectives
-- Research the Fishers Iris data set online and write a summary about it in your README
-- Download the data set and add it to your repository
-- Write a program called analysis.py that:
--- Outputs a summary of each variable to a single text file 
--- Saves a histogram of each variable to png file 
--- Outputs a scatter plot of each pair of variables 
--- Performs any other appropriate analysis 
+- Research & analyse the Fishers Iris data set online and interpret the data in your own words using course learnings
+- Use learnings from ATU Programming & Scripting course to successfully write a python program called 'analysis.py'
 
 ### Assumptions
 * Correct data set used for the project
