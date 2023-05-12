@@ -63,29 +63,34 @@ Use of Python:
 
 ### Program Analysis & Summary
 #### Python program 'analysis.py'
-Project requirements:
+#####  Project requirements:
 * Outputs a summary of each variable to a single text file
 * Saves a histogram of each variable to png file 
 * Outputs a scatter plot of each pair of variables 
 * Performs any other appropriate analysis
 
-Process details:
-Data Collection
+#####  Process details:
+###### Data Collection
+Import the libraries:
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+Import Fisher's Iris data set (CSV) file
+iris_data = pd.read_csv ('iris_dataset.csv')
+
+###### Data Preparation
+
+
+###### Data Exploration
 
 
 
-Data Preparation
-
-
-Data Exploration
+###### Data Visualation
 
 
 
-Data Visualation
-
-
-
-Results Interpretation
+###### Results Interpretation
 
 
 
