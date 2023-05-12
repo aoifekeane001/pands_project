@@ -82,7 +82,7 @@ Remove unwanted and redundant values, converting it into the right format, and m
 
 
 
-###### Data Exploration
+###### Data Exploration & Data Visualisation
 Explore data using various data visualization techniques to find unseen trends from the data
 
 Summary of data set: iris_data.info()
@@ -91,11 +91,10 @@ Display the first few rows of the data set: iris_data.head()
 
 
 
-###### Data Visualation
-
 
 
 ###### Results Interpretation
+Derive meaningful results and check if the output is in line with your expected results.
 
 
 
