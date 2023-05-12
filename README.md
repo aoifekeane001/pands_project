@@ -13,11 +13,15 @@ Purpose of this project is to research the Fishers Iris data set and write docum
 ### Project Scope
 In Scope
 * Data: Fishers Iris data set (https://www.kaggle.com/datasets/uciml/iris) 
-* Analysis: Using Python - date exploration & interpretation using NumPy, Pandas & data visualisation using Matplotlib
+* Requirements: Python Program
+Outputs a summary of each variable to a single text file 
+Saves a histogram of each variable to png file 
+Outputs a scatter plot of each pair of variables 
+Performs any other appropriate analysis 
 
 Out of Scope
-* Data: Any other data set not listed in this document
-* Analysis: Any other analysis not listed in this document
+* Data: Any other data set not listed in scope of this document
+* Requirements: Any requirement not listed in scope of this document
 
 
 ### Project Objectives
@@ -57,8 +61,9 @@ Use of Python:
 * The four features / variables measured for each sample are - Sepal length, Sepal Width, Petal Length, Petal Width
 * Key objective of the Fisher's Iris data set is to distinguish between the three different species of irish flowers based on the measurement features
 
-### Program Analysis & Summary
-Details to be added
+### 
+Program Analysis & Summary
+Analysis Program in Python 
 * Outputs a summary of each variable to a single text file
 * Saves a histogram of each variable to png file 
 * Outputs a scatter plot of each pair of variables 
