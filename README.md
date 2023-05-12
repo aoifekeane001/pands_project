@@ -2,7 +2,15 @@
 ### Author: Aoife Keane
 
 ## Table of Contents
-
+1. Project Name 
+2. Project Description
+3. Project Scope
+4. Objectives
+5. Assumptions
+6. Approach
+7. Initial Data Research & Summary
+8. Program Analysis & Summary
+9. References
 
 ## Project Name 
 Fisher Iris data set analysis
@@ -29,7 +37,7 @@ Data:
 Project Requirements: 
 * Any requirement not listed in scope of this document
 
-## Project Objectives
+## Objectives
 - Research & analyse the Fishers Iris data set online and interpret the data in your own words using course learnings
 - Use learnings from ATU Programming & Scripting course to successfully write a python program called 'analysis.py'
 
