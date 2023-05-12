@@ -13,16 +13,16 @@ Purpose of this project is to research the Fishers Iris data set and write docum
 ### Project Scope
 In Scope
 * Data: Fishers Iris data set (https://www.kaggle.com/datasets/uciml/iris) 
-* Requirements: Python Program
-Outputs a summary of each variable to a single text file 
-Saves a histogram of each variable to png file 
-Outputs a scatter plot of each pair of variables 
-Performs any other appropriate analysis 
+* Project Requirements: 
+Python Program
+* Outputs a summary of each variable to a single text file 
+* Saves a histogram of each variable to png file 
+* Outputs a scatter plot of each pair of variables 
+* Performs any other appropriate analysis 
 
 Out of Scope
 * Data: Any other data set not listed in scope of this document
-* Requirements: Any requirement not listed in scope of this document
-
+* Project Requirements: Any requirement not listed in scope of this document
 
 ### Project Objectives
 - Research the Fishers Iris data set online and write a summary about it in your README
