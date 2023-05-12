@@ -73,7 +73,6 @@ Use of Python:
 Collect the data set by doing the following:
 
 Import the libraries: import pandas as pd, import seaborn as sns, import matplotlib.pyplot as plt
-
 Import Fisher's Iris data set (CSV) file: iris_data = pd.read_csv ('iris_dataset.csv')
 
 ###### Data Preparation
@@ -85,17 +84,15 @@ Remove unwanted and redundant values, converting it into the right format, and m
 Explore data using various data visualization techniques to find unseen trends from the data
 
 Summary of data set: iris_data.info()
-
 Display the first few rows of the data set: iris_data.head()
-
-
-
-
+Check for missing values: iris_data.isnull().sum()
+Get descriptive stats: iris.data.describe()
 
 ###### Results Interpretation
 Derive meaningful results and check if the output is in line with your expected results.
-
-
+Plot the distribution of the features: sns.histplot(data=iris_data, x='sepal_length', kde=True)
+Scatter plot for relationship between two features: sns.scatterplot(data=iris_data, x='sepal_length', y='petal_length', hue='species')plt.show()
+Identify outliers with a Boxplot: sns.boxplot(data=iris_data)plt.show()
 
 ### References
 1. UCI Machine Learning ‘Iris Species’ https://www.kaggle.com/datasets/uciml/iris
