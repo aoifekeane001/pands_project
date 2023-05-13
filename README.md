@@ -46,13 +46,13 @@ Project Requirements:
 * Measuring system is accurate and precise
 
 ## Approach 
-Process
+Process Steps to build program
 * Data Collection 
 * Data Preparation 
 * Data Exploration /Data Visualisation 
 * Results Interpretation
 
-Use of Python:
+Use Python libraries:
 * NumPy: supports n-dimensional arrays and provides numerical computing tools - useful for Linear algebra and Fourier transform
 * Pandas: to handle missing data, manipulate the data, perform mathematical operations
 * Matplotlib: to add data visualisation (e.g. graphs, charts, histograms, plots)
