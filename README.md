@@ -86,7 +86,7 @@ Import the libraries:
 * import matplotlib.pyplot as plt
 
 Import Fisher's Iris data set (CSV) file: 
-* iris_data = pd.read_csv ('iris_dataset.csv')
+* iris_data=pd.read_csv ('Iris.csv')
 
 ##### Data Preparation
 Remove unwanted and redundant values, converting it into the right format, and making it ready for analysis by doing the following:
@@ -95,7 +95,10 @@ Remove unwanted and redundant values, converting it into the right format, and m
 
 ##### Data Exploration & Data Visualisation
 Explore data using various data visualization techniques to find unseen trends from the data
+Requirement 2: Saves a histogram of each variable to png file
+Requirement 3: Outputs a scatter plot of each pair of variables 
 
+Initial Steps:
 Summary of data set: 
 * iris_data.info()
 
@@ -108,8 +111,11 @@ Check for missing values:
 Get descriptive stats:
 * iris_data.describe()
 
+
+
 ##### Results Interpretation
 Derive meaningful results and check if the output is in line with your expected results.
+Requirement 4: Performs any other appropriate analysis
 
 Plot the distribution of the features: 
 * sns.histplot(data=iris_data, x='sepal_length', kde=True)
