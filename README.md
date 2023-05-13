@@ -85,7 +85,7 @@ Import Fisher's Iris data set (CSV) file:
 * Import the data set to Jupyter notebook as follows:
 * iris_data=pd.read_csv ('Iris.csv')
 
-##### Data Preparation
+#### Data Preparation
 Remove any unwanted and redundant values, convert to the right format, and make it ready for analysis by doing the following:
 
 * Display the first few rows of the data set: 
@@ -97,7 +97,7 @@ Check for missing values:
 Get descriptive stats:
 * iris_data.describe()
 
-##### Data Exploration & Data Visualisation
+#### Data Exploration & Data Visualisation
 Explore data using various data visualization techniques to find unseen trends from the data by doing the following steps & meet project requirements 1-3:
 
 * Requirement 1: Outputs a summary of each variable to a single text file
@@ -123,7 +123,7 @@ Scatter plot for relationship between two features:
 Identify outliers with a Boxplot: 
 * sns.boxplot(data=iris_data)plt.show()
 
-##### Results Interpretation & Summary
+#### Results Interpretation & Summary
 Derive meaningful results and check if the output is in line with your expected results.
 
 * Requirement 4: Performs any other appropriate analysis
