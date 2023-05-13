@@ -86,9 +86,9 @@ Import the libraries:
 * import matplotlib.pyplot as plt
 
 Import Fisher's Iris data set (CSV) file: 
-Data set downloaded from Kaggle (https://www.kaggle.com/datasets/uciml/iris) 
-Saved to local Downloads folder on C drive
-Imported the data set to Jupyter notebook as follows:
+* Download data set from Kaggle (https://www.kaggle.com/datasets/uciml/iris) 
+* Save to local Downloads folder on C drive
+* Import the data set to Jupyter notebook as follows:
 * iris_data=pd.read_csv ('Iris.csv')
 
 ##### Data Preparation
