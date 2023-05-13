@@ -70,8 +70,8 @@ Use Python libraries:
 
 ## Python Program ('analysis.py') & Summary
 ### Python program 'analysis.py'
-####  Data Analysis Process Steps for Python Program:
-##### Data Collection
+###  Data Analysis Process Steps for Python Program:
+#### Data Collection
 Collect the data set by doing the following steps:
 
 Import the libraries: 
