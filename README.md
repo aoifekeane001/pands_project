@@ -25,10 +25,10 @@ Data:
 
 Project Requirements: 
 * Python Program
-* Outputs a summary of each variable to a single text file 
-* Saves a histogram of each variable to png file 
-* Outputs a scatter plot of each pair of variables 
-* Performs any other appropriate analysis 
+1. Outputs a summary of each variable to a single text file 
+2. Saves a histogram of each variable to png file 
+3. Outputs a scatter plot of each pair of variables 
+4. Performs any other appropriate analysis 
 
 ### Out of Scope
 Data: 
