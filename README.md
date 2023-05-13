@@ -70,12 +70,6 @@ Use Python libraries:
 
 ## Python Program ('analysis.py') & Summary
 ### Python program 'analysis.py'
-####  Project requirements:
-* Outputs a summary of each variable to a single text file
-* Saves a histogram of each variable to png file 
-* Outputs a scatter plot of each pair of variables 
-* Performs any other appropriate analysis
-
 ####  Data Analysis Process Steps for Python Program:
 ##### Data Collection
 Collect the data set by doing the following steps:
