@@ -38,7 +38,7 @@ Project Requirements:
 * Any requirement not listed in scope of this document
 
 ## Objectives
-* Research & analyse the Fishers Iris data set online and interpret the data in your own words using course learnings
+* Research & analyse the Fishers Iris data set online and interpret the data in your own words using course learnings to extract the data
 * Use learnings from ATU Programming & Scripting course to successfully write a python program called 'analysis.py'
 
 ## Assumptions
@@ -46,11 +46,16 @@ Project Requirements:
 * Measuring system is accurate and precise
 
 ## Approach 
-Process Steps to meet project requirements
+Process Steps to analyse the data in order to meet project requirements:
 * Data Collection 
 * Data Preparation 
 * Data Exploration /Data Visualisation 
 * Results Interpretation
+
+Types of data analysis in orde to meet project requirements:
+* Descriptive Analysis
+* Data Reprocessing
+* Data Visualisation
 
 Use Python libraries:
 * NumPy: supports n-dimensional arrays and provides numerical computing tools - useful for Linear algebra and Fourier transform
