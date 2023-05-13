@@ -68,7 +68,7 @@ Use of Python:
 * The four features / variables measured for each sample are - Sepal length, Sepal Width, Petal Length, Petal Width
 * Key objective of the Fisher's Iris data set is to distinguish between the three different species of iris flowers based on the measurement features
 
-## Program Analysis & Summary
+## Python Program ('analysis.py') & Summary
 ### Python program 'analysis.py'
 ####  Project requirements:
 * Outputs a summary of each variable to a single text file
@@ -129,7 +129,7 @@ Scatter plot for relationship between two features:
 Identify outliers with a Boxplot: 
 * sns.boxplot(data=iris_data)plt.show()
 
-##### Results Interpretation
+##### Results Interpretation & Summary
 Derive meaningful results and check if the output is in line with your expected results.
 
 * Requirement 4: Performs any other appropriate analysis
