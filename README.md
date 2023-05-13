@@ -78,7 +78,7 @@ Use of Python:
 
 ####  Data Analysis Process Steps for Python Program:
 ##### Data Collection
-Collect the data set by doing the following:
+Collecting the data set by doing the following steps:
 
 Import the libraries: 
 * import pandas as pd
@@ -86,10 +86,15 @@ Import the libraries:
 * import matplotlib.pyplot as plt
 
 Import Fisher's Iris data set (CSV) file: 
+Data set downloaded from Kaggle (https://www.kaggle.com/datasets/uciml/iris) 
+Saved to local Downloads folder on C drive
+Imported the data set to Jupyter notebook as follows:
 * iris_data=pd.read_csv ('Iris.csv')
 
 ##### Data Preparation
 Remove unwanted and redundant values, converting it into the right format, and making it ready for analysis by doing the following:
+
+
 
 
 
