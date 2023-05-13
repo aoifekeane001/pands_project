@@ -46,7 +46,7 @@ Project Requirements:
 * Measuring system is accurate and precise
 
 ## Approach 
-Process Steps to build program
+Process Steps to meet project requirements
 * Data Collection 
 * Data Preparation 
 * Data Exploration /Data Visualisation 
