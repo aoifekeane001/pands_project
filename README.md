@@ -38,8 +38,8 @@ Project Requirements:
 * Any requirement not listed in scope of this document
 
 ## Objectives
-- Research & analyse the Fishers Iris data set online and interpret the data in your own words using course learnings
-- Use learnings from ATU Programming & Scripting course to successfully write a python program called 'analysis.py'
+* Research & analyse the Fishers Iris data set online and interpret the data in your own words using course learnings
+* Use learnings from ATU Programming & Scripting course to successfully write a python program called 'analysis.py'
 
 ## Assumptions
 * Correct data set used for the project
