@@ -136,8 +136,8 @@ Derive meaningful results and check if the output is in line with your expected 
 
 
 ## References
-1. UCI Machine Learning ‘Iris Species’ https://www.kaggle.com/datasets/uciml/iris
-2. Make a README https://www.makeareadme.com/ 
-3. Data Analytics with Python: Use Case Demo https://www.simplilearn.com/tutorials/data-analytics-tutorial/data-analytics-with-python
-4. Python.Org 'The Python Standard Library' (https://docs.python.org/3/library/index.html)
-5. Plotting Histogram in Python using Matplotlib https://www.geeksforgeeks.org/plotting-histogram-in-python-using-matplotlib/
+* UCI Machine Learning ‘Iris Species’ https://www.kaggle.com/datasets/uciml/iris
+* Make a README https://www.makeareadme.com/ 
+* Data Analytics with Python: Use Case Demo https://www.simplilearn.com/tutorials/data-analytics-tutorial/data-analytics-with-python
+* Python.Org 'The Python Standard Library' (https://docs.python.org/3/library/index.html)
+* Plotting Histogram in Python using Matplotlib https://www.geeksforgeeks.org/plotting-histogram-in-python-using-matplotlib/
