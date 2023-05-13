@@ -78,7 +78,7 @@ Use of Python:
 
 ####  Data Analysis Process Steps for Python Program:
 ##### Data Collection
-Collecting the data set by doing the following steps:
+Collect the data set by doing the following steps:
 
 Import the libraries: 
 * import pandas as pd
@@ -92,22 +92,9 @@ Import Fisher's Iris data set (CSV) file:
 * iris_data=pd.read_csv ('Iris.csv')
 
 ##### Data Preparation
-Remove unwanted and redundant values, converting it into the right format, and making it ready for analysis by doing the following:
+Remove any unwanted and redundant values, convert to the right format, and make it ready for analysis by doing the following:
 
-
-
-
-
-##### Data Exploration & Data Visualisation
-Explore data using various data visualization techniques to find unseen trends from the data
-Requirement 2: Saves a histogram of each variable to png file
-Requirement 3: Outputs a scatter plot of each pair of variables 
-
-Initial Steps:
-Summary of data set: 
-* iris_data.info()
-
-Display the first few rows of the data set: 
+* Display the first few rows of the data set: 
 * iris_data.head()
 
 Check for missing values: 
@@ -116,11 +103,22 @@ Check for missing values:
 Get descriptive stats:
 * iris_data.describe()
 
+##### Data Exploration & Data Visualisation
+Explore data using various data visualization techniques to find unseen trends from the data by doing the following steps & meet project requirements 1-3:
+
+* Requirement 1: Outputs a summary of each variable to a single text file
+
+Summary of data set: 
+* iris_data.info()
 
 
-##### Results Interpretation
-Derive meaningful results and check if the output is in line with your expected results.
-Requirement 4: Performs any other appropriate analysis
+* Requirement 2: Saves a histogram of each variable to png file 
+
+
+
+
+
+* Requirement 3: Outputs a scatter plot of each pair of variables 
 
 Plot the distribution of the features: 
 * sns.histplot(data=iris_data, x='sepal_length', kde=True)
@@ -130,6 +128,13 @@ Scatter plot for relationship between two features:
 
 Identify outliers with a Boxplot: 
 * sns.boxplot(data=iris_data)plt.show()
+
+##### Results Interpretation
+Derive meaningful results and check if the output is in line with your expected results.
+
+* Requirement 4: Performs any other appropriate analysis
+
+
 
 ## References
 1. UCI Machine Learning ‘Iris Species’ https://www.kaggle.com/datasets/uciml/iris
